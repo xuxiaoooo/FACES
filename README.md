@@ -4,8 +4,8 @@
 A novel Large Benchmark Adolescent's Neutral Reading Facial Feature Collection, Statistical Ver., 2023.
 
 <p align="center">
-  <img src="https://github.com/xuxiaoooo/ABAFnet/blob/main/draw/LOGO 1.png" width="600" height="300" alt="logo"/>
-  <img src="https://github.com/xuxiaoooo/ABAFnet/blob/main/draw/LOGO 1.png" width="600" height="300" alt="logo"/>
+  <img src="https://github.com/xuxiaoooo/ABAFnet/blob/main/draw/LOGO 1.png" width="500" height="250" alt="logo"/>
+  <img src="https://github.com/xuxiaoooo/ANRFC/blob/main/draw/ANRFC logo.png" width="500" height="250" alt="logo"/>
 </p>
 
 ---
