@@ -12,7 +12,7 @@ A novel Large Benchmark Adolescent's Neutral Reading Facial Feature Collection, 
 
 ## 🎙️ Backbone Flow
 
-<img src="https://github.com/xuxiaoooo/ANRFC2023/blob/main/draw/fig2.jpg" width="800" height="400" alt="Backbone Flow"/>
+<img src="https://github.com/xuxiaoooo/ANRFC2023/blob/main/draw/fig2.jpg" width="700" height="400" alt="Backbone Flow"/>
 
 ---
 
