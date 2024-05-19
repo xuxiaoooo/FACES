@@ -1,18 +1,17 @@
 **[English](README.md)** | **[中文](README_CN.md)**
 
-# ANRFC 2023
-全新大型基准青少年中性阅读面部特征集, 统计特征 Ver., 2023.
+# FACES
+全新大型基准数据集FACES: 用于情绪状态研究的面部情感数据集。
 
 <p align="center">
   <img src="https://github.com/xuxiaoooo/ABAFnet/blob/main/draw/LOGO 1.png" width="500" height="250" alt="logo"/>
-  <img src="https://github.com/xuxiaoooo/ANRFC2023/blob/main/draw/ANRFC%20logo.png" width="500" height="250" alt="logo"/>
 </p>
 
 ---
 
 ## 🎙️ 工作流
 
-<img src="https://github.com/xuxiaoooo/ANRFC2023/blob/main/draw/fig2.jpg" width="700" height="400" alt="Backbone Flow"/>
+<img src="https://github.com/xuxiaoooo/FACES/blob/main/draw/fig2.jpg" width="700" height="400" alt="Backbone Flow"/>
 
 ---
 
@@ -28,7 +27,7 @@
 
 ## 📌 数据集介绍
 
-我们的**ANRFC 2023**招募了11427名健康在校学生，并收集了以下数据，**DASS-21**量表和**面部视频**。据我们所知，这是迄今为止最大的视听数据集，具有严格和标准的采集流程。使用**OpenFace 2.0**工具，我们提取了广泛的综合面部特征，并将整理为统计特征数据集。这将是我们数据集的第一版，我们将其定义为**ANRFC 2023**。
+我们的**FACES**招募了11427名健康在校学生，并收集了以下数据，**DASS-21**量表和**面部视频**。据我们所知，这是迄今为止最大的视听数据集，具有严格和标准的采集流程。使用**OpenFace 2.0**工具，我们提取了广泛的综合面部特征。
 
 ---
 
