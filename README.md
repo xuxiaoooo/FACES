@@ -1,6 +1,6 @@
 **[English](README.md)** | **[中文](README_CN.md)**
 
-# ANRFC 2023
+# FACES
 A novel Large Benchmark Dataset FACES: Facial Affect Collection for Emotional States.
 
 <p align="center">
