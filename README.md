@@ -29,7 +29,7 @@ For audio/video related data and research, please stay tuned to this code reposi
 
 ## 📌 Introduction
 
-Our **ANRFC 2023** recruited 11,427 healthy schoolchild, with their scale **DASS-21** and **Facial Video**. To the best of our knowledge, this is the largest Audio-Visual dataset with a strict and standard acquisition process. Thank for the **OpenFace 2.0**, we extract comprehensive features and we calculate them to a Statistical Feature Dataset. This is the first Version of our dataset, we define it as **ANRFC 2023**.
+Our **FACES** recruited 11,427 healthy schoolchild, with their scale **DASS-21** and **Facial Video**. To the best of our knowledge, this is the largest Audio-Visual dataset with a strict and standard acquisition process. Thank for the **OpenFace 2.0**, we extract comprehensive features.
 
 ---
 
