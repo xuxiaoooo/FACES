@@ -5,7 +5,6 @@ A novel Large Benchmark Dataset FACES: Facial Affect Collection for Emotional St
 
 <p align="center">
   <img src="https://github.com/xuxiaoooo/ABAFnet/blob/main/draw/LOGO 1.png" width="300" height="180" alt="logo"/>
-  <img src="https://github.com/xuxiaoooo/FACES/blob/main/draw/ANRFC%20logo.png" width="300" height="180" alt="logo"/>
 </p>
 
 ---
