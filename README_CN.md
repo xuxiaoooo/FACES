@@ -11,7 +11,7 @@
 
 ## 🎙️ 工作流
 
-<img src="https://github.com/xuxiaoooo/FACES/blob/main/draw/fig2.jpg" width="700" height="400" alt="Backbone Flow"/>
+<img src="https://github.com/xuxiaoooo/FACES/blob/main/draw/fig1.jpg" width="700" height="400" alt="Backbone Flow"/>
 
 ---
 
@@ -19,9 +19,7 @@
 
 我们团队将致力于多人群多模态的大数据集采集以及人工智能方法的研究。
 
-数据的公开申请将第一时间在我们团队的所有相关仓库获取（由于隐私策略，大部分暂未获得公开许可）（如果作为审稿人对文章有质疑，请联系通讯作者获取特征数据文件）。
-
-音视频相关数据和研究请持续关注本代码仓库，脑影像、脑电、生理信号等数据请关注通讯作者 Xizhe Zhang 的后续论文发表。
+音视频相关数据和研究请持续关注本代码仓库。
 
 ---
 
@@ -45,7 +43,14 @@
 ---
 
 ## 📄 引用
-等待更新...
+```
+@article{xu2024faces,
+  title={Faces of the Mind: Unveiling Mental Health States Through Facial Expressions in 11,427 Adolescents},
+  author={Xu, Xiao and Zhou, Keyin and Zhang, Yan and Wang, Yang and Wang, Fei and Zhang, Xizhe},
+  journal={arXiv preprint arXiv:2405.20072},
+  year={2024}
+}
+```
 
 ---
 
