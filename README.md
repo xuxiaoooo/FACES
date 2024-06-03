@@ -11,19 +11,15 @@ A novel Large Benchmark Dataset FACES: Facial Affect Collection for Emotional St
 
 ## 🎙️ Backbone Flow
 
-<img src="https://github.com/xuxiaoooo/FACES/blob/main/draw/fig2.jpg" width="700" height="400" alt="Backbone Flow"/>
+<img src="https://github.com/xuxiaoooo/FACES/blob/main/draw/fig1.jpg" width="700" height="400" alt="Backbone Flow"/>
 
 ---
 
 ## 📙 Dataset Application
 
-Our team will work on multi-population, multi-modal big data set acquisition and artificial intelligence methods.
+Our team will work on multi-population, multi-modal big data set acquisition and artificial intelligence methods.=
 
-The public request of data will be firstly obtained in all the related repositories of our team (most of them are not licensed for public use at the moment due to the privacy policy)
-
-**Note:** If you have questions about the article as a reviewer, please contact the corresponding author to ask for the feature data files.
-
-For audio/video related data and research, please stay tuned to this code repository, and for brain imaging, EEG, physiological signaling data, please follow corresponding author Xizhe Zhang's subsequent papers.
+For audio/video related data and research, please stay tuned to this code repository.
 
 ---
 
@@ -47,8 +43,14 @@ We confirmed the validity of our dataset through sophisticated analyses and anal
 ---
 
 ## 📄 Citation
-Waiting for update...
-
+```
+@article{xu2024faces,
+  title={Faces of the Mind: Unveiling Mental Health States Through Facial Expressions in 11,427 Adolescents},
+  author={Xu, Xiao and Zhou, Keyin and Zhang, Yan and Wang, Yang and Wang, Fei and Zhang, Xizhe},
+  journal={arXiv preprint arXiv:2405.20072},
+  year={2024}
+}
+```
 ---
 
 ## 📧 Contact
