@@ -17,7 +17,7 @@ A novel Large Benchmark Dataset FACES: Facial Affect Collection for Emotional St
 
 ## 📙 Dataset Application
 
-Our team will work on multi-population, multi-modal big data set acquisition and artificial intelligence methods.=
+Our team will work on multi-population, multi-modal big data set acquisition and artificial intelligence methods.
 
 For audio/video related data and research, please stay tuned to this code repository.
 
