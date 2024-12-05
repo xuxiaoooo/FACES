@@ -12,13 +12,13 @@
 
 ## 🎙️ 工作流
 
-<img src="https://github.com/xuxiaoooo/FACES/blob/main/draw/fig1.jpg" width="700" height="400" alt="Backbone Flow"/>
+<img src="https://github.com/xuxiaoooo/FACES/blob/main/draw/fig1.jpg" width="800" height="400" alt="Backbone Flow"/>
 
 ---
 
 ## 📌 数据集介绍
 
-我们的**FACES**招募了11427名健康在校学生，并收集了以下数据，**DASS-21**量表和**面部视频**。据我们所知，这是迄今为止最大的视听数据集，具有严格和标准的采集流程。使用**OpenFace 2.0**工具，我们提取了广泛的综合面部特征。
+我们的**FACES**招募了11,427名健康在校学生，并收集了以下数据，**DASS-21**量表和**面部视频**。这是迄今为止最大的心理健康视听数据集，具有严格和标准的采集流程。使用**OpenFace 2.0**工具，我们提取了广泛的综合面部特征。
 
 ---
 
