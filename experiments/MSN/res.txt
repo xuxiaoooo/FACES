@@ -1,0 +1,14 @@
+Depression
+Accuracy: 0.560, F1-score: 0.597, Recall: 0.645, Precision: 0.555
+MAE: 5.494, RMSE: 6.769
+
+Anxiety
+Accuracy: 0.581, F1-score: 0.584, Recall: 0.563, Precision: 0.606
+MAE: 5.668, RMSE: 6.870
+
+Stress
+Accuracy: 0.556, F1-score: 0.429, Recall: 0.369, Precision: 0.511
+MAE: 6.489, RMSE: 7.841
+
+Cluster_3
+Accuracy: 0.613, F1-score: 0.692, Recall: 0.818, Precision: 0.600

@@ -1,0 +1,18 @@
+LI_FPN
+Depression
+Mean Absolute Error (MAE): 5.401
+Root Mean Squared Error (RMSE): 7.334
+Accuracy: 0.638, F1-score: 0.680, Recall: 0.743, Precision: 0.627 
+
+Anxiety
+Mean Absolute Error (MAE): 5.249
+Root Mean Squared Error (RMSE): 7.077
+Accuracy: 0.577, F1-score: 0.639, Recall: 0.707, Precision: 0.582
+
+Stress
+Mean Absolute Error (MAE): 6.188
+Root Mean Squared Error (RMSE): 8.156
+Accuracy: 0.579, F1-score: 0.587, Recall: 0.750, Precision: 0.483
+
+Cluster_3
+Accuracy: 0.565, F1-score: 0.609, Recall: 0.636, Precision: 0.583
