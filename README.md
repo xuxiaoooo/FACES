@@ -12,7 +12,7 @@ A novel Large Benchmark Dataset FACES: Facial Affect Collection for Emotional St
 
 ## 🎙️ Backbone Flow
 
-<img src="https://github.com/xuxiaoooo/FACES/blob/main/draw/fig1.jpg" width="700" height="400" alt="Backbone Flow"/>
+<img src="https://github.com/xuxiaoooo/FACES/blob/main/draw/fig1.jpg" width="800" height="400" alt="Backbone Flow"/>
 
 ---
 
