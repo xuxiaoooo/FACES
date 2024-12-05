@@ -4,8 +4,8 @@
 A novel Large Benchmark Dataset FACES: Facial Affect Collection for Emotional States.
 
 <p align="center">
-  <img src="https://github.com/xuxiaoooo/ABAFnet/blob/main/draw/faces.png" width="300" height="180" alt="faces"/>
-  <img src="https://github.com/xuxiaoooo/ABAFnet/blob/main/draw/LOGO 1.png" width="300" height="180" alt="logo"/>
+  <img src="https://github.com/xuxiaoooo/FACES/blob/main/draw/faces.png" width="300" height="180" alt="faces"/>
+  <img src="https://github.com/xuxiaoooo/FACES/blob/main/draw/LOGO 1.png" width="300" height="180" alt="logo"/>
 </p>
 
 ---
