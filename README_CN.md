@@ -4,7 +4,8 @@
 全新大型基准数据集FACES: 用于情绪状态研究的面部情感数据集。
 
 <p align="center">
-  <img src="https://github.com/xuxiaoooo/ABAFnet/blob/main/draw/LOGO 1.png" width="500" height="250" alt="logo"/>
+  <img src="https://github.com/xuxiaoooo/FACES/blob/main/draw/LOGO 1.png" width="300" height="180" alt="logo"/>
+  <img src="https://github.com/xuxiaoooo/FACES/blob/main/draw/faces.png" width="300" height="180" alt="faces"/>
 </p>
 
 ---
