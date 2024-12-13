@@ -1,7 +1,7 @@
 **[English](README.md)** | **[中文](README_CN.md)**
 
 # FACES
-A novel Large Benchmark Dataset FACES: Facial Affect Collection for Emotional States.
+A novel Large Benchmark Dataset FACES: Facial Analysis Collection for Emotional States.
 
 <p align="center">
   <img src="https://github.com/xuxiaoooo/FACES/blob/main/draw/LOGO 1.png" width="300" height="180" alt="logo"/>
